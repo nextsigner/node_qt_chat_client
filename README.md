@@ -1,6 +1,6 @@
 # node_qt_chat_client
 
-###Issues for GNU/Linux Users
+## Issues for GNU/Linux Users
 For running this chat client you need
 
 1. Install nodejs.
