@@ -7,3 +7,6 @@ For running this chat client you need
 2. Install npm packages faye-websocket, qwebchannel and readline.
 3. Download from github a portable app qt_qml_chat_server_amd64 created by GitHub user nextsigner.
 4. Run $: nodejs node_qt_chat_client.js  
+
+## Note: 
+For test this example is necessary download [a link](https://github.com/nextsigner/qt_qml_chat_server)
