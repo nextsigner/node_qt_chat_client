@@ -9,4 +9,5 @@ For running this chat client you need
 4. Run $: nodejs node_qt_chat_client.js  
 
 ## Note: 
-For test this example is necessary download [a link](https://github.com/nextsigner/qt_qml_chat_server)
+For test this example is necessary download [qt_qml_chat_server](https://github.com/nextsigner/qt_qml_chat_server). Its a project too of example for test QWebChannel.
+Remember what this example is running as a client mode and the qt_qml_chat_server running as a server mode.
